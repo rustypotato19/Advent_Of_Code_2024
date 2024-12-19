@@ -1,8 +1,4 @@
-#include <fstream>
-#include <vector>
-#include <string>
-#include <iostream>
-#include <regex>
+#include "../include/includes.h"
 
 using namespace std;
 

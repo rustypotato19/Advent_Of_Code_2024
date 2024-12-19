@@ -1,8 +1,4 @@
-#include <algorithm>
-#include <fstream>
-#include <iostream>
-#include <string>
-#include <vector>
+#include "../include/includes.h"
 
 using namespace std;
 
